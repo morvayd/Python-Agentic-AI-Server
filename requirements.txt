@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+yfinance
+httpx
+python-dotenv
